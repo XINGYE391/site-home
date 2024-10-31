@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/xingye391"
+  },
+  {
+    "name": "CSDN",
+    "icon": "/images/icon/csdn.png",
+    "tip": "那里有你需要的文章~",
+    "url": "https://blog.csdn.net/m0_62819117"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:1447424604@qq.com"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/1896203774"
+  }
+]

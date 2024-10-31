@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://blog.xing-ye.top/"
+  },
+  {
+    "icon": "User",
+    "name": "关于",
+    "link": "https://blog.xing-ye.top/personal/about/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.xing-ye.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.xing-ye.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.xing-ye.top/"
+  }
+]
