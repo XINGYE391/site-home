@@ -10,9 +10,9 @@
     "link": "https://blog.xing-ye.top/personal/about/"
   },
   {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.xing-ye.top/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.xing-ye.top/"
   },
   {
     "icon": "Fire",
@@ -20,8 +20,33 @@
     "link": "https://hot.xing-ye.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.xing-ye.top/"
+    "icon": "Brain",
+    "name": "思维导图",
+    "link": "https://mind.xing-ye.top/"
+  },
+  {
+    "icon": "Lightbulb",
+    "name": "灵感白板",
+    "link": "https://draw.xing-ye.top/"
+  },
+  {
+    "icon": "BookOpen",
+    "name": "封面制作",
+    "link": "https://cover.xing-ye.top/"
+  },
+  {
+    "icon": "Tools",
+    "name": "IT工具箱",
+    "link": "https://tool.xing-ye.top/"
+  },
+  {
+    "icon": "Robot",
+    "name": "自建GPT",
+    "link": "https://chat.xing-ye.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.xing-ye.top/"
   }
 ]
